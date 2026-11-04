@@ -4,3 +4,5 @@ git clone – Copies an existing remote repository to your computer.
 git add – Stages changes for the next commit.
 git commit – Saves staged changes to the repository history.
 git push – Uploads local commits to a remote repository.
+git pull – Downloads and integrates changes from a remote repository.
+git branch – Lists, creates, or manages local branches.
